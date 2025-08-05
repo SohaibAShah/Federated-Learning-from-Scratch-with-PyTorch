@@ -15,6 +15,7 @@ Make sure you have `git` installed to clone the repository.
 ```sh
 git clone [https://github.com/SohaibAShah/Federated-Learning-from-Scratch-with-PyTorch.git](https://github.com/SohaibAShah/Federated-Learning-from-Scratch-with-PyTorch.git)
 
+```
 
 ## 🧠 Core Concepts Covered
 
